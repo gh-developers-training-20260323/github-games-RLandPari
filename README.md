@@ -1,7 +1,7 @@
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+**hola**
 You can play the game at: https://gh-developers-training-20260323.github.io/github-games-RLandPari/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
